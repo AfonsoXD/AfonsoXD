@@ -21,7 +21,7 @@
 
 ## 📚 Formação
 
-- Sistemas de Informação – Cruzeiro do Sul (8º período)
+- Sistemas de Informação 
 
 ---
 
@@ -45,7 +45,7 @@ Busco oportunidade de estágio na área de TI para desenvolver minhas habilidade
 📧 afonsotomaz2015@gmail.com
 
 💼 LinkedIn:  
-[linkedin.com/in/afonso-tomaz-049905238](https://www.linkedin.com/in/afonso-tomaz-049905238?utm_source=chatgpt.com)
+www.linkedin.com/in/afonso-tomaz-dev
 
 ---
 
