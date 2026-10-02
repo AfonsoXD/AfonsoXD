@@ -1,6 +1,6 @@
 # Olá, eu sou Afonso Tomaz 👋
 
-🎓 Estudante de Sistemas de Informação – 8º período  
+🎓 Recém formado de Sistemas de Informação  
 💻 Focado em desenvolvimento Back-end com Java  
 🛠️ Conhecimentos em Java, SQL, Node.js, HTML, CSS e JavaScript  
 🔧 Experiência com manutenção de computadores 
